@@ -1,11 +1,10 @@
 import "./App.css";
-import Text from "./components/Text";
+import "./index.js";
 
 function App() {
   return (
     <div>
       <h1>Hello,World</h1>
-      <Text />
     </div>
   );
 }
